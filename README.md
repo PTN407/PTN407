@@ -1,9 +1,9 @@
-
 ### ✨ About me ✨  
   
 + ✧ : Phan Trọng Nhân
-+ ✧ : K16 UIT
-+ ✧ : C++ / Python (OpenCV)
++ ✧ : Computer Science, K16 UIT  
++ ✧ : C++ / Python (OpenCV)  
++ ✧ : Love to make useful things
 + ✧ : Writing in free time, Anime, Game, ...
 
 ### ✨ Repositories ✨  
