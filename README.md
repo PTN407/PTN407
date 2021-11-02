@@ -9,7 +9,7 @@
 ### ✨ Repositories ✨  
 
 + ✧ : OpenCV Errors, Hinders, ... : https://github.com/PTN407/OpenCV-Notes
-+ ✧ : Crawl similar images on Google : https://github.com/PTN407/Reverse-Image-Search
++ ✧ : Crawl similar images on Google : https://github.com/PTN407/Reverse-Image-Search (Incomplete, only able to get the link to google image search for now)
 
 ### ✨ What I'm up to ✨ 
   
