@@ -3,8 +3,7 @@
 + ✧ Name ✧ : Phan Trọng Nhân
 + ✧ Major/School ✧ : Computer Science, K16 UIT  
 + ✧ Languages/Technology ✧ : C++ / Python (OpenCV)  
-+ ✧ Ultimate target ✧ : Love to make useful things
-+ ✧ Hobby ✧ : Writing in free time, Anime, Game, ...
++ ✧ Ultimate target ✧ : Make useful things
 
 ### ✨ Repositories ✨  
 
@@ -15,9 +14,3 @@
   
 + ✧ : Currently learning OpenCV/ML
 + ✧ : Competitive Programming
-  
-### ✨ Future projects I plan to do ✨ 
-  
-+ ✧ : Translate speech bubble comics 
-+ ✧ : Floor detection for driving robot
-
