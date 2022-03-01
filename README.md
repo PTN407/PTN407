@@ -2,8 +2,8 @@
 
 + ✧ Name ✧ : Phan Trọng Nhân
 + ✧ Major/School ✧ : Computer Science, K16 UIT  
-+ ✧ Languages/Technology ✧ : C++ / Python (OpenCV)  
-+ ✧ Ultimate target ✧ : Make useful things
++ ✧ Languages/Technology ✧ : C++, Python 
++ ✧ Ultimate target ✧ : Meow meow
 
 ### ✨ Repositories ✨  
 
