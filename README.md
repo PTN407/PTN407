@@ -3,7 +3,7 @@
 + ✧ Name ✧ : Phan Trọng Nhân
 + ✧ Major/School ✧ : Computer Science, K16 UIT  
 + ✧ Languages/Technology ✧ : C++, Python 
-+ ✧ Ultimate target ✧ : Meow meow
++ ✧ Ultimate target ✧ : See you in HN!
 
 ### ✨ Repositories ✨  
 
